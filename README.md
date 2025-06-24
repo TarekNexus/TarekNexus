@@ -1,7 +1,8 @@
 <!-- 🖼️ Banner Image -->
 <img src="tarek-banner.png" alt="Banner" width="100%"/>
 
-
+# Md. Tarek  
+### MERN Stack Web Developer
 
 ## About Me
 
@@ -34,7 +35,6 @@ I enjoy transforming complex problems into clean, efficient code and seamless us
 </div>
 
 ---
-
 
 ## 🌐 Connect with Me
 
