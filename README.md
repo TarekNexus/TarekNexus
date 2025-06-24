@@ -1,5 +1,5 @@
 <!-- 🖼️ Banner Image -->
-<img src="https://your-banner-image-url.com" alt="Banner" width="100%"/>
+<img src="tarek-banner.png" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi, I'm Md. Tarek 👋</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
