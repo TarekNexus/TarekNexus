@@ -33,6 +33,25 @@ I enjoy transforming complex problems into clean, efficient code and seamless us
 
 ---
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/React_Router-white?style=for-the-badge&logo=react-router&logoColor=CA4245&labelColor=1E293B"/>
+</div>
+
+<div align="center" style="margin-top:5px;">
+  <img src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=white&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=1E293B"/>
+  <img src="https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=jsonwebtokens&logoColor=black&labelColor=1E293B"/>
+</div>
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
