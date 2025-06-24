@@ -49,8 +49,14 @@ I enjoy transforming complex problems into clean, efficient code and seamless us
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekNexus&theme=radical" alt="GitHub Streak"/>
-</p>
+<div align="center">
+
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+
+ 
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekNexus&theme=radical" alt="GitHub Streak" width="50%" />
+
+</div>
