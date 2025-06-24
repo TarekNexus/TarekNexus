@@ -51,12 +51,11 @@ I enjoy transforming complex problems into clean, efficient code and seamless us
 
 <div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" height="150px" style="object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical" alt="Top Languages" width="40%" height="150px" style="object-fit: contain;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical" alt="Top Languages" width="40%" />
-
- 
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekNexus&theme=radical" alt="GitHub Streak" width="40%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekNexus&theme=radical" alt="GitHub Streak" width="40%" height="150px" style="object-fit: contain;" />
 
 </div>
