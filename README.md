@@ -1,8 +1,12 @@
 <!-- 🖼️ Banner Image -->
 <img src="tarek-banner.png" alt="Banner" width="100%"/>
 
+<div align="center">
+
 # Md. Tarek  
 ### MERN Stack Web Developer
+
+</div>
 
 ## About Me
 
