@@ -1,10 +1,10 @@
 <!-- 🖼️ Banner Image -->
 <img src="tarek-banner.png" alt="Banner" width="100%"/>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<div align="center">
 
-<h1 style="font-size: 3rem; margin-bottom: 0;">Md. Tarek</h1>
-<p style="font-size: 1.25rem; color: #6B7280; margin-top: 0;">MERN Stack Web Developer</p>
+# Md. Tarek  
+### MERN Stack Web Developer
 
 </div>
 
