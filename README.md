@@ -50,6 +50,6 @@ I enjoy transforming complex problems into clean, efficient code and seamless us
 
   <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekNexus&theme=radical" alt="GitHub Streak" width="350" height="160" />
+<img src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical" alt="GitHub Streak" width="350" height="160" />
 
 </div>
