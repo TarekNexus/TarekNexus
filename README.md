@@ -38,16 +38,10 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 
 ## 🌐 Connect with Me
 
-<div style="text-align: center; gap: 10px; display: inline-flex;">
-  <a href="https://www.linkedin.com/in/tarekdeveloper/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tarekdeveloper.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:tarekdeveloper59@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<div style="text-align: center;">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarekdeveloper/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tarekdeveloper.netlify.app)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarekdeveloper59@gmail.com)
 </div>
 
 ---
