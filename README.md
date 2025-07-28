@@ -1,5 +1,5 @@
 <!-- 🖼️ Banner Image -->
-<img src="banner.png" alt="Banner" width="100%"/>
+<img src="hero.png" alt="Banner" width="100%"/>
 
 
 ## About Me
