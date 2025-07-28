@@ -4,9 +4,9 @@
 
 ## About Me
 
-I'm a passionate Front-End Web Developer with a strong foundation in modern JavaScript technologies.
+I'm a passionate Front-End Web Developer with a strong foundation in modern web technologies.
 I specialize in building responsive, scalable, and user-friendly interfaces using Next.js, React.js, JavaScript, Tailwind CSS, HTML, CSS, Firebase, and REST APIs.
-I enjoy transforming complex UI challenges into clean, efficient code and seamless user experiences.
+I enjoy turning complex UI challenges into clean, efficient code and delivering seamless user experiences.
 
 ### 🔄 Current Activities:
 - 🌐 Exploring `Next.js`
