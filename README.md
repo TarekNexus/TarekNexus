@@ -49,11 +49,25 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical" alt="GitHub Stats" width="350px" height="160px" style="object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical" alt="Top Languages" width="350px" height="150px" style="object-fit: contain;" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical&hide_border=true" 
+    alt="GitHub Stats" 
+    width="400"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages" 
+    width="400"
+  />
 
   <br/>
 
-<img src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical" alt="GitHub Streak" width="350" height="160" />
+  <img 
+    src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+    width="400"
+  />
 
 </div>
+
