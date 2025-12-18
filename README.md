@@ -47,7 +47,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px; ">
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical&hide_border=true" 
