@@ -58,7 +58,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
   <img 
       src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
       alt="GitHub Streak"
-      width="400"
+      width=100%
       style="height: 100px; object-fit: cover;"
     />
 
