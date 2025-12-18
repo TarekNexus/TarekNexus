@@ -56,21 +56,22 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
         height="300"
       />
     </td>
-       <td>
-   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages" 
-    width="400"
-        height="300"
-  />
-    </td>
-    <td>
+   
+   <td>
       <img 
         src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
         alt="GitHub Streak"
         width="400"
         height="320"
       />
+    </td>
+        <td>
+   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages" 
+    width="400"
+        height="300"
+  />
     </td>
   </tr>
 </table>
