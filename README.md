@@ -46,31 +46,34 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 ---
 
 ## 📊 GitHub Stats
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 16px;">
+  <div style="display: flex; gap: 16px; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical&hide_border=true" 
+      alt="GitHub Stats" 
+      width="400"
+    />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats" 
-    width=100%
-    style="height: 100px;"
-  />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
+      alt="Top Languages" 
+      width="400"
+    />
+  </div>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages" 
-    width=100%
-    style="height: 100px;"
-  />
+  <br/>
 
-  <img 
-    src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
-    width=100%
-    style="height: 100px;"
-  />
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img 
+      src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
+      alt="GitHub Streak"
+      width="400"
+    />
+  </div>
 
 </div>
+
 
 
 
