@@ -45,26 +45,20 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 
 ---
 ## 📊 GitHub Stats
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
 
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 16px; width: 100%;">
 
   <img 
       src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical&hide_border=true" 
       alt="GitHub Stats" 
-      width="400"
+      style="width: 50%; height: 150px; object-fit: cover;"
     />
-
- 
-
-
-
 
   <img 
       src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
       alt="GitHub Streak"
-      width="400"
+      style="width: 50%; height: 150px; object-fit: cover;"
     />
-
 
 </div>
 
