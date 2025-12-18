@@ -51,7 +51,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
   <img 
       src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical&hide_border=true" 
       alt="GitHub Stats" 
-      width="400"
+      width=100%
       style="height: auto;"
     />
 
