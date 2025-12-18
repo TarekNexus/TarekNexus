@@ -52,19 +52,19 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical&hide_border=true" 
     alt="GitHub Stats" 
-    width="250"
+    width=100%
   />
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
     alt="Top Languages" 
-    width="250"
+    width=100%
   />
 
   <img 
     src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
     alt="GitHub Streak"
-    width="250"
+    width=100%
   />
 
 </div>
