@@ -55,11 +55,11 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
       width="400"
     />
 
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
-      alt="Top Languages" 
-      width="400"
-    />
+ <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages" 
+    width="350"
+  />
   </div>
 
   <br/>
