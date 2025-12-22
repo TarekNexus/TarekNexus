@@ -67,7 +67,6 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
   width="420"
   height="350"
 />
-
     </td>
         <td>
    <img 
