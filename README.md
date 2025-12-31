@@ -2,6 +2,7 @@
 <img src="hero.png" alt="Banner" width="100%"/>
 
 
+
 ## About Me
 
 I'm a passionate Front-End Web Developer with a strong foundation in modern web technologies.
