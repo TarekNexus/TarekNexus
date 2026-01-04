@@ -64,12 +64,9 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
     </td>
    
    <td>
- <img 
-  src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
-  alt="GitHub Streak"
-  width="420"
-/>
-    </td>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TarekNexus)](https://git.io/streak-stats)
+
+  </td>
         <td>
    <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
@@ -80,7 +77,11 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
     </td>
   </tr>
 </table>
-
+ <img 
+  src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
+  alt="GitHub Streak"
+  width="420"
+/>
 
 
 
