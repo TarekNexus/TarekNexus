@@ -4,7 +4,6 @@
 
 
 
-
 ## About Me
 
 I'm a passionate Front-End Web Developer with a strong foundation in modern web technologies.
