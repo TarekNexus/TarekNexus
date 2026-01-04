@@ -64,7 +64,13 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
     </td>
    
    <td>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TarekNexus)](https://git.io/streak-stats)
+ <img 
+  src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
+  alt="GitHub Streak"
+  width="420"
+/>
+
+
 
   </td>
         <td>
@@ -77,12 +83,6 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
     </td>
   </tr>
 </table>
- <img 
-  src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
-  alt="GitHub Streak"
-  width="420"
-/>
-
 
 
 
