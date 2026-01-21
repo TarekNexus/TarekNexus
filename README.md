@@ -12,7 +12,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 
 
 ### 🔄 Current Activities:
-- 🌐 Exploring `PostgreSQL`
+- 🌐 Exploring `Prisma`
 - 📦 Working on a parcel delivery web application
 - 🌿 Maintaining a plant tracker app
 - 🍱 Developing a food sharing platform
