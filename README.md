@@ -54,14 +54,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 
 <table align="center"  border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=TarekNexus&show_icons=true&theme=radical&hide_border=true" 
-        alt="GitHub Stats" 
-        width="400"
-        height="300"
-      />
-    </td>
+
    
    <td>
  <img 
@@ -73,14 +66,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 
 
   </td>
-        <td>
-   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekNexus&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages" 
-    width="350"
-        height="300"
-  />
-    </td>
+       
   </tr>
 </table>
 
