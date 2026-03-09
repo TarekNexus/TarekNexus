@@ -22,45 +22,29 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-
-<!-- Frontend -->
 <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
-
-<!-- Backend -->
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
-
-<!-- Database -->
 <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
-
-<!-- ORM -->
 <a href="#"><img src="https://skillicons.dev/icons?i=prisma" width="40" height="40"/></a>
-
-<!-- Auth / Services -->
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a>
-
-<!-- Better Auth -->
-<a href="#"><img src="https://avatars.githubusercontent.com/u/157918405?s=200&v=4" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
 
 <!-- shadcn -->
 <a href="#"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/></a>
 
-<!-- Tools -->
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
-
-<!-- Languages -->
-<a href="#"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
+<!-- better-auth -->
+<a href="#"><img src="https://avatars.githubusercontent.com/u/157918405?s=200&v=4" width="40" height="40"/></a>
 
 </p>
-
 
 ---
 
