@@ -95,7 +95,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
   <a href="mailto:tarekdeveloper59@gmail.com" target="_blank">
         <img 
         align="center"
-        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+        src="https://i.ibb.co.com/ynHMMK0g/icons8-gmail-48.png"
         alt="Email" height="30" width="40" />
     </a>
 
