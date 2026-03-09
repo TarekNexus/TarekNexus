@@ -2,7 +2,7 @@
 <img src="hero.png" alt="Banner" width="100%"/>
 
 
-
+---
 
 <h1 align="center">
     MD. TAREK
