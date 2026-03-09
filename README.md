@@ -88,7 +88,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 <a href="https://tarekdeveloper.netlify.app/" target="_blank">
         <img 
         align="center"
-        src="https://i.ibb.co.com/zH8vcKfq/image.png"
+        src="https://i.ibb.co.com/27RbH1PV/download-We-Resize-com.png"
         alt="Portfolio" height="30" width="40" />
     </a>
 
