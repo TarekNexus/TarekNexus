@@ -74,12 +74,43 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 
 
 
-## 🌐 Connect with Me
+<h3 align="center">
+    Connect with me:
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarekdeveloper/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tarekdeveloper.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarekdeveloper59@gmail.com)
+<p align="center">
 
+<a href="https://www.linkedin.com/in/tarekdeveloper" target="_blank">
+        <img 
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="LinkedIn" height="30" width="40" />
+    </a>
+
+
+<a href="https://tarekdeveloper.netlify.app/" target="_blank">
+        <img 
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
+        alt="Portfolio" height="30" width="40" />
+    </a>
+
+
+<a href="mailto:tarekdeveloper59@gmail.com" target="_blank">
+        <img 
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg"
+        alt="Email" height="30" width="40" />
+    </a>
+
+ 
+<a href="https://wa.me/8801778188448" target="_blank">
+        <img 
+        align="center"
+        src="https://i.ibb.co/sdK6N91V/Whats-App-Image-2025-11-27-at-23-48-35-cc036f6f.jpg"
+        alt="WhatsApp" height="30" width="40" />
+    </a>
+</p>
 
 ---
 ## 📊 GitHub Stats
