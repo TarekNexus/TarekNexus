@@ -97,7 +97,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 
 
 <h3 align="center">Performance Stats</h3>
-<p align="center"> <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TarekNexus&" alt="TarekNexus" /> </p>
+<p align="center"> <img align="center" height="180" src="https://streak-stats.demolab.com?user=TarekNexus" alt="GitHub Streak" /> </p>
 
 
 
