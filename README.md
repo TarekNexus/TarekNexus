@@ -26,7 +26,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 <img  src="https://i.ibb.co.com/ynHMMK0g/icons8-gmail-48.png" width="40" height="40"/></a>
 
 <a href="https://wa.me/8801778188448" target="_blank">
-<img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" height="40"/></a>
+<img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="36" height="36"/></a>
 
 </p>
 
