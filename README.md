@@ -16,7 +16,9 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 
 
 <h3 align="center">Technologies & Tools</h3>
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 <p align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
