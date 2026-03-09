@@ -96,11 +96,10 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 
 
 <p align="center">
-    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+    <a href="https://motion.dev/" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/framer" alt="framer-motion" width="40" height="40" />
     </a>
 </p>
-
 
 
 
