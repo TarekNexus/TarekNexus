@@ -3,10 +3,10 @@
 
 
 
-<h4 align="center" style="font-size: 40px;">
-    MD. TAREK
-</h4>
 
+<h1 align="center">
+      MD. TAREK
+</h1>
 <h4 align="center">
 Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborative, team-driven projects. I specialize in building intuitive, high-performance web applications using the Full Stack, with a sharp eye for clean design and seamless user experiences. Driven by a growing passion for SWE and AI/ML, I'm constantly pushing the boundaries of what's possible  crafting scalable, future ready digital solutions that create real impact.
 </h4>
@@ -14,7 +14,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 
 
 
----
+
 <h3 align="center">Technologies & Tools</h3>
 
 <p align="center">
@@ -72,7 +72,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 
 </p>
 
----
+
 
 ## 🌐 Connect with Me
 
