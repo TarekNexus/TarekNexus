@@ -26,6 +26,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
