@@ -18,7 +18,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 - 🍱 Developing a food sharing platform
 
 ---
-<h3 align="center">Tools & Technologies</h3>
+<h3 align="center">Technologies & Tools</h3>
 
 <p align="center">
 
