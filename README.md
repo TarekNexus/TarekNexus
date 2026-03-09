@@ -88,7 +88,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 <a href="https://tarekdeveloper.netlify.app/" target="_blank">
         <img 
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
+        src="https://i.ibb.co.com/sdK6N91V/Whats-App-Image-2025-11-27-at-23-48-35-cc036f6f.jpg"
         alt="Portfolio" height="30" width="40" />
     </a>
 
