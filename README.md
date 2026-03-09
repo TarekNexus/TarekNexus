@@ -63,7 +63,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
 </a>
-<a href="https://motion.dev/"target="_blank" rel="noreferrer">
+<a href="https://motion.dev/"target="_blank" >
 <img src="https://i.ibb.co.com/mmm1BYN/image-1.png" alt="framer-motion" width="40" height="40" />
 </a>
 
