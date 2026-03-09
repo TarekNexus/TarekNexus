@@ -83,7 +83,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 <a href="https://www.linkedin.com/in/tarekdeveloper" target="_blank">
         <img 
         align="center"
-        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="LinkedIn" height="30" width="40" />
     </a>
 
@@ -91,7 +91,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 <a href="https://tarekdeveloper.netlify.app/" target="_blank">
         <img 
         align="center"
-        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
         alt="Portfolio" height="30" width="40" />
     </a>
 
@@ -99,15 +99,15 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 <a href="mailto:tarekdeveloper59@gmail.com" target="_blank">
         <img 
         align="center"
-        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg"
         alt="Email" height="30" width="40" />
     </a>
 
-
+    
 <a href="https://wa.me/8801778188448" target="_blank">
         <img 
         align="center"
-        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
         alt="WhatsApp" height="30" width="40" />
     </a>
 </p>
