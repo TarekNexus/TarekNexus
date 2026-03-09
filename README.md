@@ -18,7 +18,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 - 🍱 Developing a food sharing platform
 
 ---
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tools & Technologies</h3>
 
 <p align="center">
 
@@ -51,6 +51,9 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 
 <a href="https://expressjs.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
+
+<a href="https://neon.tech" target="_blank">
+<img src="https://cdn.simpleicons.org/neon/00E599" width="40" height="40"/></a>
 
 <a href="https://www.mongodb.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
