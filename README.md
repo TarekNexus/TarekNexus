@@ -11,11 +11,7 @@ I specialize in building responsive, scalable, and user-friendly interfaces usin
 I enjoy turning complex UI challenges into clean, efficient code and delivering seamless user experiences.
 
 
-### 🔄 Current Activities:
-- 🌐 Exploring `Prisma`
-- 📦 Working on a parcel delivery web application
-- 🌿 Maintaining a plant tracker app
-- 🍱 Developing a food sharing platform
+
 
 ---
 <h3 align="center">Technologies & Tools</h3>
