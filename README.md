@@ -72,7 +72,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 
 
 <h3 align="center">
-    Connect with me:
+    Let’s connect
 </h3>
 <p align="center">
 
