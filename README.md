@@ -79,7 +79,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 </h3>
 
 <p align="center">
-    <!-- LinkedIn -->
+
 <a href="https://www.linkedin.com/in/tarekdeveloper" target="_blank">
         <img 
         align="center"
@@ -87,7 +87,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
         alt="LinkedIn" height="30" width="40" />
     </a>
 
-    <!-- Portfolio -->
+  
 <a href="https://tarekdeveloper.netlify.app/" target="_blank">
         <img 
         align="center"
@@ -95,7 +95,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
         alt="Portfolio" height="30" width="40" />
     </a>
 
-    <!-- Email -->
+ 
 <a href="mailto:tarekdeveloper59@gmail.com" target="_blank">
         <img 
         align="center"
@@ -103,7 +103,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
         alt="Email" height="30" width="40" />
     </a>
 
-    <!-- WhatsApp -->
+
 <a href="https://wa.me/8801778188448" target="_blank">
         <img 
         align="center"
