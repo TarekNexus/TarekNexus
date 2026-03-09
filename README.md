@@ -52,10 +52,6 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 <a href="https://expressjs.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
 
-<a href="https://neon.tech" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/neon.svg" width="40" height="40"/>
-</a>
-
 <a href="https://www.mongodb.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
 
