@@ -99,7 +99,9 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 <p align="center"> <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TarekNexus&" alt="TarekNexus" /> </p>
 
 
-
+<a href="https://motion.dev/" target="_blank" >
+<img src="https://i.ibb.co.com/mmm1BYN/image-1.png" width="40" height="40" />
+</a>
 
 
 
