@@ -3,7 +3,7 @@
 
 
 
-<h4 align="center">
+<h4 align="center" style="font-size: 40px;">
     MD. TAREK
 </h4>
 
