@@ -25,6 +25,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
+<a href="#"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
@@ -39,11 +40,6 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
 
-<!-- shadcn -->
-<a href="#"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/></a>
-
-<!-- better-auth -->
-<a href="#"><img src="https://avatars.githubusercontent.com/u/157918405?s=200&v=4" width="40" height="40"/></a>
 
 </p>
 
