@@ -20,7 +20,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"   alt="LinkedIn" height="36"/></a>
 
 <a href="https://tarekdeveloper.netlify.app/" target="_blank">
-<img  src="https://i.ibb.co.com/27RbH1PV/download-We-Resize-com.png" width="40" height="40"/></a>
+<img  src="https://i.ibb.co.com/27RbH1PV/download-We-Resize-com.png" width="36" height="36"/></a>
 
 <a href="mailto:tarekdeveloper59@gmail.com" target="_blank">
 <img  src="https://i.ibb.co.com/ynHMMK0g/icons8-gmail-48.png" width="40" height="40"/></a>
