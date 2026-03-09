@@ -53,7 +53,7 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
 
 <a href="https://neon.tech" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/neon.svg" width="40" height="40"/>
+<img src="https://neon.tech/favicon.ico" width="40" height="40"/>
 </a>
 
 <a href="https://www.mongodb.com" target="_blank">
