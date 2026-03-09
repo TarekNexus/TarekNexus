@@ -1,5 +1,4 @@
-<!-- 🖼️ Banner Image -->
-<img src="hero.png" alt="Banner" width="100%"/>
+
 
 
 
