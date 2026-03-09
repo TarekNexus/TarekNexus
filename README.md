@@ -18,28 +18,60 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 - 🍱 Developing a food sharing platform
 
 ---
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
-<a href="#"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=prisma" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
+
+<a href="https://tailwindcss.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
+
+<a href="https://ui.shadcn.com" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
+
+<a href="https://www.typescriptlang.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
+
+<a href="https://react.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
+
+<a href="https://nextjs.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
+
+<a href="https://nodejs.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
+
+<a href="https://expressjs.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
+
+<a href="https://www.mongodb.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
+
+<a href="https://www.postgresql.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
+
+<a href="https://www.prisma.io" target="_blank">
+<img src="https://skillicons.dev/icons?i=prisma" width="40" height="40"/></a>
+
+<a href="https://git-scm.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
+
+<a href="https://firebase.google.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a>
+
+<a href="https://www.java.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
 
 </p>
 
