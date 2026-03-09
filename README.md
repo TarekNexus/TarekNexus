@@ -11,69 +11,6 @@
 Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborative, team-driven projects. I specialize in building intuitive, high-performance web applications using the Full Stack, with a sharp eye for clean design and seamless user experiences. Driven by a growing passion for SWE and AI/ML, I'm constantly pushing the boundaries of what's possible  crafting scalable, future ready digital solutions that create real impact.
 </h4>
 
-<!-- Background Banner -->
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" 
-    width="100%"
-  />
-</div>
-
-<!-- Tech Stack Icons -->
-<p align="center" style="margin-top: -50px;"> <!-- adjust negative margin to overlap -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://ui.shadcn.com" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
-  </a>
-  <a href="https://www.prisma.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
-  </a>
-</p>
-
 
 
 <h3 align="center">Technologies & Tools</h3>
