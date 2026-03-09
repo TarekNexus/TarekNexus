@@ -79,39 +79,38 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 </h3>
 
 <p align="center">
-
+    <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/tarekdeveloper" target="_blank">
         <img 
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
         alt="LinkedIn" height="30" width="40" />
     </a>
 
-
+    <!-- Portfolio -->
 <a href="https://tarekdeveloper.netlify.app/" target="_blank">
         <img 
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
+        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg"
         alt="Portfolio" height="30" width="40" />
     </a>
 
-
+    <!-- Email -->
 <a href="mailto:tarekdeveloper59@gmail.com" target="_blank">
         <img 
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg"
+        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
         alt="Email" height="30" width="40" />
     </a>
 
- 
+    <!-- WhatsApp -->
 <a href="https://wa.me/8801778188448" target="_blank">
         <img 
         align="center"
-        src="https://i.ibb.co/sdK6N91V/Whats-App-Image-2025-11-27-at-23-48-35-cc036f6f.jpg"
+        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg"
         alt="WhatsApp" height="30" width="40" />
     </a>
 </p>
-
 ---
 ## 📊 GitHub Stats
 
