@@ -52,23 +52,11 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 ---
 ## 📊 GitHub Stats
 
-<table align="center"  border="0" cellspacing="0" cellpadding="0">
-  <tr>
+<p align="center">
+    <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TarekNexus&"
+        alt="TarekNexus" />
+</p>
 
-   
-   <td>
- <img 
-  src="https://streak-stats.demolab.com?user=TarekNexus&theme=radical&hide_border=true" 
-  alt="GitHub Streak"
-  width="420"
-/>
-
-
-
-  </td>
-       
-  </tr>
-</table>
 
 
 
