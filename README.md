@@ -90,7 +90,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 
 </p>
 
----
+
 ## 📊 GitHub Stats
 
 <p align="center">
