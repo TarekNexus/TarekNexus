@@ -96,10 +96,10 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
     </a>
 
  
-<a href="mailto:tarekdeveloper59@gmail.com" target="_blank">
+  <a href="mailto:tarekdeveloper59@gmail.com" target="_blank">
         <img 
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg"
+        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
         alt="Email" height="30" width="40" />
     </a>
 
