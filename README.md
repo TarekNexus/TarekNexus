@@ -19,25 +19,32 @@ I enjoy turning complex UI challenges into clean, efficient code and delivering 
 
 ---
 
-## 🚀 My Skills
+<h3 align="center">Languages and Tools:</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
+<a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=prisma" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
 
-</div>
+<!-- shadcn -->
+<a href="#"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/></a>
+
+<!-- better-auth -->
+<a href="#"><img src="https://avatars.githubusercontent.com/u/157918405?s=200&v=4" width="40" height="40"/></a>
+
+</p>
 
 
 ---
