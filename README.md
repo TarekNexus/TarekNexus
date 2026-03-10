@@ -62,11 +62,15 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
 
 <a href="https://nodejs.org" target="_blank">
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
+<a  href="https://supabase.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=supabase" width="40" height="40"/></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
 </a>
 <br><br>
+<a href="https://neon.tech"target="_blank">
+<img src="https://i.ibb.co.com/tTrRGYXk/image.png" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
 
