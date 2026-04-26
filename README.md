@@ -8,7 +8,7 @@
 Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborative, team-driven international projects. I specialize in building intuitive, high-performance web applications using the Full Stack, with a sharp eye for clean design and seamless user experiences. Driven by a growing passion for SWE and AI/ML, I'm constantly pushing the boundaries of what's possible—crafting scalable, future-ready digital solutions that create real impact.
 </h4>
 
----
+
 
 <h3 align="center">Let’s connect</h3>
 
@@ -30,7 +30,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
   </a>
 </p>
 
----
+
 
 <h3 align="center">Technologies & Tools</h3>
 
@@ -63,7 +63,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
   <img src="https://i.ibb.co.com/mmm1BYN/image-1.png" width="40"/>
 </p>
 
----
+
 
 <h3 align="center">Performance Stats</h3>
 
