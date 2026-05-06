@@ -1,11 +1,13 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div> -->
+<div align="center">
+  <img src="./banner.png" alt="banner" width="100%" />
 </div>
-
-<h1 align="center">MD. TAREK</h1>
-
+<!-- <h1 align="center">MD. TAREK</h1> -->
+<h3 align="center">Professional Summary</h3>
 <h4 align="center">
-Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborative, team-driven international projects. I specialize in building intuitive, high-performance web applications using the Full Stack, with a sharp eye for clean design and seamless user experiences. Driven by a growing passion for SWE and AI/ML, I'm constantly pushing the boundaries of what's possible—crafting scalable, future-ready digital solutions that create real impact.
+Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborative, team-driven international projects. I specialize in building intuitive, high performance web applications using the Full Stack, with a sharp eye for clean design and seamless user experiences. Driven by a growing passion for SWE and AI/ML, I'm constantly pushing the boundaries of what's possible crafting scalable, future ready digital solutions that create real impact.
 </h4>
 
 
