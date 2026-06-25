@@ -22,7 +22,7 @@ Front-end Developer at FAARNS LTD. with proven experience across 21+ collaborati
   </td>
 
   <td>
-    <a href="https://tarekdeveloper.netlify.app/">
+    <a href="https://tarekdev59.vercel.app/">
       <img width="40" src="https://i.ibb.co.com/WNGnP30X/image-2.png"/>
     </a>
   </td>
